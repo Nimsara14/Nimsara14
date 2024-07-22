@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <h1 align="center">Hi 👋, I'm nimsara aththanayake</h1>
-<h3 align="center">i am an undergraduate student from sri lanka</h3>
+<h3 align="center">i am a passionate it student from sri lanka</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nimsara14&label=Profile%20views&color=0e75b6&style=flat" alt="nimsara14" /> </p>
 
