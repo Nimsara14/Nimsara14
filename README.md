@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 </p>
 
 <br>
-- 🌱 I’m currently learning **java**
+-  🌱 I’m currently learning **java**
 
 - 💬 Ask me about **java**
 
