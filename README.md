@@ -48,38 +48,3 @@ Here are some ideas to get you started:
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nimsara14&" alt="nimsara14" /></p>
 <details>
-  ## &nbsp; &nbsp; &nbsp;🔥 My Motto
-
-
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; <img  src="https://readme-typing-svg.herokuapp.com?font=Soucre+Code+Pro&duration=1700&color=12263A&background=ffffff&multiline=true&width=650&height=220&lines=while(true);..+brain.init();..+if(+world.contains(open_source));....++s+%3D+open_source.login(kaustav202);....+s.explore();....+s.learn();....+s.contribute()"/>
-
-
-
-<div align="center">
- <b style = {font-weight: 600}>Visitors Count</b>
-
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{kaustav202}/count.svg" /></p> 
-<br>
-</div>
- 
-
- 
-  <summary>  <h2> &nbsp;&nbsp; 🌟Profiles  </h2> </summary>
-  
-  </br>
-
-  <a href = "https://github.com/kaustav202/kaustav202/blob/main/fun.md"> <h3>🔸🎮 Lots of other cool stuffs, trivia and info about me </h3> </a>
-  
-  </br>
-  
-  <a href = "https://metrics.lecoq.io/about/kaustav202"><h3>🔸🚀  Checkout all my open source jorney and more metrics in this page </h3> </a>
-  
-  </br>
-  
-  <a href = "https://kaustav-port.web.app/"><h3>🔸🎴 My Portfolio Website</h3></a>
-  
-  </br>
-  </br>
-  
- </details>
- -->
