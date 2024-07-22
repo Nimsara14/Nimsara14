@@ -28,18 +28,6 @@ Here are some ideas to get you started:
 <br>
 
 
-
-
-
-
-
-
-
-
-
-
-
-
 - 🌱 I’m currently learning **java**
 
 - 💬 Ask me about **java**
