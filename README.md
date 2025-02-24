@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <h1 align="center">Hi 👋, I'm nimsara aththanayake</h1>
-<h3 align="center">i am a passionate it student from sri lanka</h3>
+
 
 
 
@@ -25,13 +25,10 @@ Here are some ideas to get you started:
 </p>
 
 <br>
--  🌱 I’m currently learning **java**
-
-- 💬 Ask me about **java**
 
 - 📫 How to reach me **nimsaraa2004gmail.com**
 
-- ⚡ Fun fact **i think i am funny**
+- ⚡ Fun fact ** xxxxxx**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
